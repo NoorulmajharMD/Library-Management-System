@@ -111,4 +111,4 @@ Here are some key SQL commands used in the project:
 
 For any inquiries or contributions, feel free to reach out:
 
-[GitHub Profile](https://github.com/MSivananthan)
+[GitHub Profile](https://github.com/NoorulmajharMD)
